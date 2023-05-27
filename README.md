@@ -1,2 +1,2 @@
 # html-css-js
-learning of html css and js
+learning how to use images and links in html
