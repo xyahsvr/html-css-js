@@ -1,2 +1,2 @@
 # html-css-js
-learning of html css and js
+learning how to make a website through html
